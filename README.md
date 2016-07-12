@@ -1,6 +1,5 @@
 # testUnity
 this is a very simple project to test GitHub and Unity created by Yaelle and Georges!!!
-Blah blah blah
 
 ## description
 Well that's just a mini project, it doesn't do anything!
