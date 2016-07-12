@@ -10,3 +10,4 @@ All... or none, who knows! For now, we'll say none.
 ## others
 :+1: This looks great!
 :shipit: Shipit!!!
+:+1: This is amazing!
